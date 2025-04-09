@@ -36,7 +36,7 @@ With over 15 years of experience in software development, I specialize in buildi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe in lifelong learning and enjoy mentoring others in their coding journey.
 
-![](https://github.com/JitenShahani/JitenShahani/blob/main/JitenShahani.svg)
+![JitenShahani](JitenShahani.svg)
 
 <!--
 **JitenShahani/JitenShahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
