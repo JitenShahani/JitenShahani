@@ -15,7 +15,7 @@ With over 15 years of experience in software development, I specialize in buildi
 ## 🛠️ Technologies & Tools
 
 - Languages: **FoxPro, Visual FoxPro, HTML, CSS, JavaScript, C#**
-- Frameworks: **.Net, Asp Net Core, Entity Framework, Bootstrap**
+- Frameworks: **.Net, Asp Net Core, Entity Framework Core, Bootstrap**
 - Tools: **Git, GitHub, Docker**
 - Editor/IDE: **LINQPad, Visual Studio, JetBrains Rider, Visual Studio Code**
 - Database Technologies: **FoxPro, Visual FoxPro, SQL Server**
