@@ -32,7 +32,7 @@ With over 15 years of experience in software development, I specialize in buildi
 
 ## 🌐 Connect with Me
 
-- 📫 How to reach me: [![EMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TechPoorna)
+- 📫 How to reach me: [![EMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JitenShahani)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe in lifelong learning and enjoy mentoring others in their coding journey.
