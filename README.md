@@ -47,9 +47,11 @@ Here are some of my recent articles on [![Dev.to](https://img.shields.io/badge/D
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitenShahani&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Jiten Shahani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JitenShahani&theme=dark&hide_border=true&show_icons=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitenShahani&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JitenShahani&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+
 <!--
+![GitHub Stats](https://streak-stats.demolab.com?user=JitenShahani&theme=ayu-mirage&hide_border=true)
 ![Jiten Shahani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JitenShahani&theme=dark&hide_border=true)
 ![Jiten Shahani's GitHub Streak](https://streak-stats.demolab.com?user=JitenShahani&theme=dark&hide_border=true)
 -->
