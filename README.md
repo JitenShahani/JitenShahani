@@ -1,6 +1,6 @@
 # Hi there, I'm Jiten Shahani 👋
 
-Welcome to my GitHub profile! I'm a software developer with 15+ years of years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
+Welcome to my GitHub profile! I'm a software developer with 15+ years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
 
 ## 🚀 About Me
 
