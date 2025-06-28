@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! I'm a software developer with 15+ years of years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
 
-## 📘 Featured Work
-
-🧭 [Shirts API Documentation](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
-An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
-
-🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
-A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
-
 ## 🚀 About Me
 
 - 🌱 I’m learning **.NET** and **C#**.
@@ -25,6 +17,14 @@ A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. 
 - Editor/IDE: **LINQPad, Visual Studio, JetBrains Rider, Visual Studio Code**
 - Database Technologies: **FoxPro, Visual FoxPro, SQL Server**
 <!-- - **Other Skills:** API Design, Dependency Injection, Middleware Configuration, Software Architecture -->
+
+## 📘 Featured Work
+
+🧭 [Shirts API Documentation](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
+An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
+
+🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
+A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
 
 ## 📈 GitHub Stats
 
