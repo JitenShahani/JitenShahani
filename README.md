@@ -45,6 +45,26 @@ Here are some of my recent articles on [![Dev.to](https://img.shields.io/badge/D
 - 🔧 [**Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#**](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)  
   A hands-on comparison of constructor, property, and interface injection with examples to help you choose the right approach for your use case.
 
+## 🛠️ Upcoming Articles: ASP.NET Core Feature Series
+A roadmap of topics I'm exploring to help .NET developers build better APIs.
+
+| Feature							| Highlights Worth Covering																											|
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Rate Limiting						| Built-in support in .NET 8, flexible limiter types (fixed, sliding, token bucket), custom policies								|
+| Health Checks						| Monitor app health with built-in checks, custom endpoints, readiness/liveness probes, and UI tools								|
+| Anti-Forgery Tokens				| CSRF protection using tokens, secure cookie/header setup, and strategies for Razor Pages and APIs									|
+| Model Validation					| Server-side validation with DataAnnotations, FluentValidation, ModelState, and automatic 400 responses via [ApiController]		|
+| Caching							| In-memory, distributed, and response caching with profiles, vary-by rules, and smart invalidation									|
+| Authentication & Authorization	| JWT, cookie schemes, policy-based auth, roles/claims, custom handlers																|
+| CORS								| Configure global or scoped policies using WithOrigins, handle preflight requests, and control wildcard behavior					|
+| Custom Middleware					| Create pipeline components using IMiddleware or inline delegates; manage request flow, inject logging, and handle early exits		|
+| HttpClient & Message Handlers		| Manage outbound HTTP calls with IHttpClientFactory, typed clients, and custom DelegatingHandlers for retries and logging			|
+| SignalR (Real-Time)				| Hubs, connections, broadcasting, stateful messaging in APIs																		|
+| Background & Worker Services		| BackgroundService, IHostedService, IHostedLifecycleService, timers, graceful shutdowns											|
+| File Uploads in APIs				| Upload files via IFormFile with streaming or buffering, apply size limits, and perform server-side validation						|
+| Logging & Monitoring				| Use ILogger and Serilog for structured logging, integrate telemetry, and enable diagnostics for production insights				|
+| Model Binding Internals			| Dive into parameter binding sources, complex type handling, and how model binding integrates with validation and custom binders	|
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitenShahani&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
@@ -66,7 +86,7 @@ Here are some of my recent articles on [![Dev.to](https://img.shields.io/badge/D
 ![JitenShahani](JitenShahani.svg)
 
 <!--
-**JitenShahani/JitenShahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨
 
 Here are some ideas to get you started:
 
