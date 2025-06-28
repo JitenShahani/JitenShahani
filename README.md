@@ -1,9 +1,14 @@
 # Hi there, I'm Jiten Shahani 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with over 15 years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
+Welcome to my GitHub profile! I'm a software developer with 15+ years of years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
 
-<!-- ## Bio
-With over 15 years of experience in software development, I specialize in building efficient and scalable database solutions. Currently I'm learning .NET -->
+## 📘 Featured Work
+
+🧭 [Shirts API Documentation](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
+An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
+
+🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
+A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
 
 ## 🚀 About Me
 
