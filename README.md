@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a software developer with 15+ years of experie
 
 ## 📘 Featured Work
 
-🧭 [Shirts API Documentation](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
+🧭 [ShirtsApi-ArchitecturalDocs](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
 An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
 
 🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
