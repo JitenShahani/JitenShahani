@@ -37,7 +37,7 @@ A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. 
 
 ## 🌐 Connect with Me
 
-- 📫 How to reach me: [![EMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JitenShahani)
+- 📫 How to reach me: [![EMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JitenShahani)  [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jitenshahani)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe in lifelong learning and enjoy mentoring others in their coding journey.
