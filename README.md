@@ -26,6 +26,8 @@ An educational walkthrough of a secure, filter-based ASP.NET Core Web API — wi
 🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
 A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
 
+🧭 [API Versioning & Keyed Services in .NET 9](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9) A controller-based Web API built with .NET 9, highlighting advanced features like API versioning, keyed service injection, and dual OpenAPI UIs using Swagger and Scalar. Designed for clarity and fail-fast validation, this project is a hands-on guide to building scalable, versioned APIs.
+
 ## ✍️ My Dev Articles
 
 Here are some of my recent articles on [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jitenshahani)
