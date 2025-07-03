@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer with 15+ years of experie
 ## 🚀 About Me
 
 - 🌱 Continuously leveling up in **.NET** and modern **C#**, with a focus on API design and architecture.
-- 🔭 I’m currently working on **refining my .NET API skills**.
+- 🔭 I’m currently working on expanding my knowledge of **Entity Framework Core** to deepen my understanding of data access strategies.
 - 🤔 I’m looking for help with **code reviews** and having someone go through my code to correct me where I might be wrong or suggest improvements.
 - 💬 Ask me about **C#, .NET, & API design**.
 
