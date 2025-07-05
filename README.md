@@ -1,3 +1,5 @@
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/JitenShahani?style=for-the-badge)](https://github.com/JitenShahani/JitenShahani/commits/master)
+
 # Hi there, I'm Jiten Shahani 👋
 
 Welcome to my GitHub profile! I'm a software developer with 15+ years of experience in building scalable and maintainable applications, specializing in efficient database solutions. I enjoy working with modern technologies and constantly strive to refine my skills.
@@ -21,7 +23,7 @@ Welcome to my GitHub profile! I'm a software developer with 15+ years of experie
 ## 📘 Featured Work
 
 🧭 [ShirtsApi-ArchitecturalDocs](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
-An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
+An educational walkthrough of a secure, filter-based ASP.NET Core Web API with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ShirtsApi-ArchitecturalDocs?style=for-the-badge)](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs/commits/main)
 
@@ -30,28 +32,37 @@ A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. 
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/RequestValidationInMinimalAPIs?style=for-the-badge)](https://github.com/JitenShahani/RequestValidationInMinimalAPIs/commits/master)
 
-🧭 [API Versioning & Keyed Services in .NET 9](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9) A controller-based Web API built with .NET 9, highlighting advanced features like API versioning, keyed service injection, and dual OpenAPI UIs using Swagger and Scalar. Designed for clarity and fail-fast validation, this project is a hands-on guide to building scalable, versioned APIs.
+🧭 [API Versioning & Keyed Services in .NET 9](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9)
+A controller-based Web API built with .NET 9, highlighting advanced features like API versioning, keyed service injection, and dual OpenAPI UIs using Swagger and Scalar. Designed for clarity and fail-fast validation, this project is a hands-on guide to building scalable, versioned APIs.
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ApiVersioningDemo-.NET-9?style=for-the-badge)](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9/commits/master)
 
+🧭 [Bearer Token Auth Demo](https://github.com/JitenShahani/BearerTokenAuthDemo)
+A minimal API application built with .NET 10, showcasing ASP.NET Core Identity with `AddBearerToken()` introduced in .NET 8. It features secure token-based authentication, role-based authorization, auto-generated endpoints via `MapIdentityApi`, OpenAPI integration, Scalar UI, and developer-friendly documentation.
+
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/BearerTokenAuthDemo?style=for-the-badge)](https://github.com/JitenShahani/BearerTokenAuthDemo/commits/master)
+
 ## ✍️ My Dev Articles
+[![My Dev Profile](https://img.shields.io/badge/My%20Profile-Black?style=for-the-badge&logo=dev.to&logoColor=%23fff&logoSize=auto&labelColor=%230A0A0A&color=%23000)](https://dev.to/jitenshahani)
 
-Here are some of my recent articles on [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jitenshahani)
+<!--
+[![My Profile](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jitenshahani)
+-->
 
-- 📘 [**API Project Architecture**](https://dev.to/jitenshahani/api-project-architecture-5ab9)  
-  A structured walkthrough of how to layer an ASP.NET Core API project covering controllers, services, repositories, and validation with clarity and purpose.
+📘 [**API Project Architecture**](https://dev.to/jitenshahani/api-project-architecture-5ab9)
+A structured walkthrough of how to layer an ASP.NET Core API project covering controllers, services, repositories, and validation with clarity and purpose.
 
-- 📦 [**Repository Pattern – ASP.NET Core Web API**](https://dev.to/jitenshahani/repository-pattern-demo-aspnet-core-web-api-49j8)  
-  A practical guide to implementing the repository pattern to decouple data access logic and promote testability in your Web API projects.
+📦 [**Repository Pattern – ASP.NET Core Web API**](https://dev.to/jitenshahani/repository-pattern-demo-aspnet-core-web-api-49j8)
+A practical guide to implementing the repository pattern to decouple data access logic and promote testability in your Web API projects.
 
-- 🛠️ [**Understanding Service Registration & Keyed Services in Dependency Injection**](https://dev.to/jitenshahani/understanding-service-registration-keyed-services-in-dependency-injection-1cbf)  
-  Explains how to register multiple implementations of the same interface using keys — a powerful technique for advanced DI scenarios.
+🛠️ [**Understanding Service Registration & Keyed Services in Dependency Injection**](https://dev.to/jitenshahani/understanding-service-registration-keyed-services-in-dependency-injection-1cbf)
+Explains how to register multiple implementations of the same interface using keys — a powerful technique for advanced DI scenarios.
 
-- 🧪 [**Mastering Service Registration in Dependency Injection**](https://dev.to/jitenshahani/mastering-service-registration-in-dependency-injection-3k1d)  
-  Covers the different lifetimes (`Transient`, `Scoped`, `Singleton`) and registration strategies to help you build flexible and maintainable services.
+🧪 [**Mastering Service Registration in Dependency Injection**](https://dev.to/jitenshahani/mastering-service-registration-in-dependency-injection-3k1d)
+Covers the different lifetimes (`Transient`, `Scoped`, `Singleton`) and registration strategies to help you build flexible and maintainable services.
 
-- 🔧 [**Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#**](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)  
-  A hands-on comparison of constructor, property, and interface injection with examples to help you choose the right approach for your use case.
+🔧 [**Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#**](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)
+A hands-on comparison of constructor, property, and interface injection with examples to help you choose the right approach for your use case.
 
 ## 🛠️ Upcoming Articles: ASP.NET Core Feature Series
 A roadmap of topics I'm exploring to help .NET developers build better APIs.
