@@ -23,10 +23,16 @@ Welcome to my GitHub profile! I'm a software developer with 15+ years of experie
 🧭 [ShirtsApi-ArchitecturalDocs](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs)
 An educational walkthrough of a secure, filter-based ASP.NET Core Web API — with flowcharts, claim-based validation, and clean architecture, inspired by course-based learning.
 
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ShirtsApi-ArchitecturalDocs?style=for-the-badge)](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs/commits/main)
+
 🧭 [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
 A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
 
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/RequestValidationInMinimalAPIs?style=for-the-badge)](https://github.com/JitenShahani/RequestValidationInMinimalAPIs/commits/master)
+
 🧭 [API Versioning & Keyed Services in .NET 9](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9) A controller-based Web API built with .NET 9, highlighting advanced features like API versioning, keyed service injection, and dual OpenAPI UIs using Swagger and Scalar. Designed for clarity and fail-fast validation, this project is a hands-on guide to building scalable, versioned APIs.
+
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ApiVersioningDemo-.NET-9?style=for-the-badge)](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9/commits/master)
 
 ## ✍️ My Dev Articles
 
