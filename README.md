@@ -1,4 +1,4 @@
-[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/JitenShahani?style=for-the-badge)](https://github.com/JitenShahani/JitenShahani/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/JitenShahani?style=for-the-badge)](https://github.com/JitenShahani/JitenShahani/commits/main)
 
 # Hi there, I'm Jiten Shahani 👋
 
