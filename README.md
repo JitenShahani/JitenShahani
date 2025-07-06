@@ -88,6 +88,7 @@ A roadmap of topics I'm exploring to help .NET developers build better APIs.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JitenShahani&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JitenShahani&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=JitenShahani&theme=ayu-mirage&hide_border=true)
 
 <!--
 ![GitHub Stats](https://streak-stats.demolab.com?user=JitenShahani&theme=ayu-mirage&hide_border=true)
