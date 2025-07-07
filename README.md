@@ -78,6 +78,8 @@ These are completed demos and experiments that I've already explored locally. Wh
 
 **Planned Repo:** `MinimalApiValidation-DotNet10`
 
+🏷️ Tags: `Validation`, `Minimal API`, `Preview Features`, `.NET 10`.
+
 Explore new features introduced in .NET 10 Previews:
 
 - Auto-validation for request bodies in Minimal APIs using `AddValidation()` introduced in Preview 3.
@@ -90,6 +92,8 @@ Explore new features introduced in .NET 10 Previews:
 
 **Planned Repo:** `DtoMappingWithExtensionMethods`
 
+🏷️ Tags: `DTO`, `Mapping`, `Extension Methods`, `Clean Code`
+
 - Demonstrates clean and controlled DTO ↔ Entity mapping using extension methods.
 - Avoids the overhead of external mappers like AutoMapper and places mapping logic where it's accessible and testable.
 
@@ -98,6 +102,8 @@ Explore new features introduced in .NET 10 Previews:
 🖥️ Enum Showcase & Metadata Exploration
 
 **Planned Repo:** `AdvancedEnumPatterns`
+
+🏷️ Tags: `Enums`, `Metadata`, `Attributes`, `Flags`, `FastEnums`
 
 - Progressively explores enum usage from basic iteration to advanced concepts like reading custom attributes, using `TypeConverter` for friendly string output, and bitwise combination with `Flags`.
 - Includes performance optimization via `FastEnums` (source generator library).
@@ -108,6 +114,8 @@ Explore new features introduced in .NET 10 Previews:
 
 **Planned Repo:** `GlobalExceptionMiddleware-Demo`
 
+🏷️ Tags: `Error Handling`, `Middleware`, `API`, `Resilience`
+
 - Implements centralized error handling in ASP.NET Core using custom middleware.
 - Captures exceptions and responds with structured error payloads—ideal for consistent API behavior.
 
@@ -116,6 +124,8 @@ Explore new features introduced in .NET 10 Previews:
 🖥️ Background & Hosted Services
 
 **Planned Repo:** `HostedServicesInAspNetCore`
+
+🏷️ Tags: `Background Processing`, `Hosted Services`, `Lifecycle`, `Cancellation`
 
 Demonstrates background processing patterns using multiple approaches:
 
@@ -129,6 +139,8 @@ Demonstrates background processing patterns using multiple approaches:
 
 **Planned Repo:** `RepositoryPatternWithGenericSupport`
 
+🏷️ Tags: `Repository`, `Data Access`, `Abstraction`, `EF Core`
+
 Demonstrates two complementary data access patterns:
 
 - **Traditional Repository Pattern**: Entity-specific interfaces focused on database CRUD operations, keeping persistence logic separate from business decisions.
@@ -140,6 +152,8 @@ Demonstrates two complementary data access patterns:
 
 **Planned Repo:** `ExtensionMethods-CSharp14-Demo`
 
+🏷️ Tags: `C# 14`, `Syntax`, `Extension Methods`, `Utility`
+
 - Showcases the new syntax for declaring extension methods introduced in C# 14.
 - This demo emphasizes improved readability, expressive method design, and clean separation of functionality without altering original types.
 - Ideal for utility libraries, functional helpers, and designing fluent code experiences.
@@ -150,6 +164,8 @@ Demonstrates two complementary data access patterns:
 
 **Planned Repo:** `QuestPDF-LayoutShowcase`
 
+ 🏷️ Tags: `PDF Generation`, `QuestPDF`, `Layout`, `Templates`
+
 - Generates visually rich multi-page PDFs with custom fonts, dynamic columns, rows, headers, and placeholders.
 - Demonstrates layout precision and developer-friendly styling.
 
@@ -159,6 +175,8 @@ Demonstrates two complementary data access patterns:
 
 **Planned Repo:** `CultureAwareUnitTests-DotNet`
 
+🏷️ Tags: `Localization`, `CultureInfo`, `Unit Tests`, `Threading`
+
 - Validates cultural formatting behavior for dates and currency across multiple locales (`pt-PT`, `en-IN`, `ru-RU`, and others).
 - The demo highlights how `Thread.CurrentCulture` and `Thread.CurrentUICulture` can be programmatically controlled during tests to simulate global user experiences.
 
@@ -167,6 +185,8 @@ Demonstrates two complementary data access patterns:
 🖥️ Factory Pattern in ASP.NET Core
 
 **Planned Repo:** `FactoryPatternInAspNetCore`
+
+🏷️ Tags: `Factory`, `Keyed Services`, `Design Patterns`, `Dependency Injection`
 
 - Contrasts traditional Factory Pattern usage with Keyed Services introduced in .NET 8.
 - Good for understanding runtime resolution, DI flexibility, and design pattern evolution.
