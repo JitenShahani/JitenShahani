@@ -64,8 +64,118 @@ Covers the different lifetimes (`Transient`, `Scoped`, `Singleton`) and registra
 📝 [**Mastering Dependency Injection: Effective Ways to Inject Dependencies in C#**](https://dev.to/jitenshahani/mastering-dependency-injection-effective-ways-to-inject-dependencies-in-c-n5j)
 A hands-on comparison of constructor, property, and interface injection with examples to help you choose the right approach for your use case.
 
-## 📝 Upcoming Articles: ASP.NET Core Feature Series
-A roadmap of topics I'm exploring to help .NET developers build better APIs.
+## ✨ My Publishing backlog
+<details>
+  <summary>👉 Click to view </summary>
+
+### 🖥️ Upcoming Demos
+
+These are completed demos and experiments that I've already explored locally. What's pending is documentation, polishing, and publishing to GitHub. Each entry reflects a focused concept or architectural decision I wanted to validate firsthand. This section serves as a personal publishing queue. Quietly organized and ready when time allows.
+
+---
+
+🖥️ Minimal API Validation in .NET 10
+
+**Planned Repo:** `MinimalApiValidation-DotNet10`
+
+Explore new features introduced in .NET 10 Previews:
+
+- Auto-validation for request bodies in Minimal APIs using `AddValidation()` introduced in Preview 3.
+- Support for `DataAnnotation` attributes directly on C# `record` types introduced in Preview 4.
+- Includes a comparison of behavior between Minimal APIs and traditional MVC controllers.
+
+---
+
+🖥️ Manual DTO Mapping via Extension Methods
+
+**Planned Repo:** `DtoMappingWithExtensionMethods`
+
+- Demonstrates clean and controlled DTO ↔ Entity mapping using extension methods.
+- Avoids the overhead of external mappers like AutoMapper and places mapping logic where it's accessible and testable.
+
+---
+
+🖥️ Enum Showcase & Metadata Exploration
+
+**Planned Repo:** `AdvancedEnumPatterns`
+
+- Progressively explores enum usage from basic iteration to advanced concepts like reading custom attributes, using `TypeConverter` for friendly string output, and bitwise combination with `Flags`.
+- Includes performance optimization via `FastEnums` (source generator library).
+
+---
+
+🖥️ Global Exception Handling
+
+**Planned Repo:** `GlobalExceptionMiddleware-Demo`
+
+- Implements centralized error handling in ASP.NET Core using custom middleware.
+- Captures exceptions and responds with structured error payloads—ideal for consistent API behavior.
+
+---
+
+🖥️ Background & Hosted Services
+
+**Planned Repo:** `HostedServicesInAspNetCore`
+
+Demonstrates background processing patterns using multiple approaches:
+
+- `BackgroundService`: A streamlined base class for long-running tasks with support for scoped services and graceful cancellation.
+- `IHostedService`: Interface-based implementation for startup tasks, timers, and background loops.
+- `IHostedLifetimeService`: Introduced in .NET 8+ for managing full lifecycle hooks (startup, shutdown, failure handling).
+
+---
+
+🖥️ Repository Pattern + Generic Support
+
+**Planned Repo:** `RepositoryPatternWithGenericSupport`
+
+Demonstrates two complementary data access patterns:
+
+- **Traditional Repository Pattern**: Entity-specific interfaces focused on database CRUD operations, keeping persistence logic separate from business decisions.
+- **Generic Repository Pattern**: Shared `IRepository<T>` approach for reusable CRUD functionality across multiple entities. Helpful for consistency and reducing repetition.
+
+---
+
+🖥️ C# 14 Extension Method Demo
+
+**Planned Repo:** `ExtensionMethods-CSharp14-Demo`
+
+- Showcases the new syntax for declaring extension methods introduced in C# 14.
+- This demo emphasizes improved readability, expressive method design, and clean separation of functionality without altering original types.
+- Ideal for utility libraries, functional helpers, and designing fluent code experiences.
+
+---
+
+🖥️ QuestPDF Layout Demo
+
+**Planned Repo:** `QuestPDF-LayoutShowcase`
+
+- Generates visually rich multi-page PDFs with custom fonts, dynamic columns, rows, headers, and placeholders.
+- Demonstrates layout precision and developer-friendly styling.
+
+---
+
+🖥️ Culture-Aware Unit Testing
+
+**Planned Repo:** `CultureAwareUnitTests-DotNet`
+
+- Validates cultural formatting behavior for dates and currency across multiple locales (`pt-PT`, `en-IN`, `ru-RU`, and others).
+- The demo highlights how `Thread.CurrentCulture` and `Thread.CurrentUICulture` can be programmatically controlled during tests to simulate global user experiences.
+
+---
+
+🖥️ Factory Pattern in ASP.NET Core
+
+**Planned Repo:** `FactoryPatternInAspNetCore`
+
+- Contrasts traditional Factory Pattern usage with Keyed Services introduced in .NET 8.
+- Good for understanding runtime resolution, DI flexibility, and design pattern evolution.
+
+---
+
+### 📝 Upcoming Articles
+
+These topics emerged while building my demos. They’re either things I’d like to write about or jot down for future reference. Most of them focus on practical .NET features and architectural patterns, with an emphasis on clarity over completeness. If they eventually turn into blog posts or guides, great. If not, they still mark what caught my interest along the way.
 
 | Feature							| Highlights Worth Covering																											|
 |-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -83,6 +193,8 @@ A roadmap of topics I'm exploring to help .NET developers build better APIs.
 | File Uploads in APIs				| Upload files via IFormFile with streaming or buffering, apply size limits, and perform server-side validation						|
 | Logging & Monitoring				| Use ILogger and Serilog for structured logging, integrate telemetry, and enable diagnostics for production insights				|
 | Model Binding Internals			| Dive into parameter binding sources, complex type handling, and how model binding integrates with validation and custom binders	|
+
+</details>
 
 ## 📈 GitHub Stats
 
