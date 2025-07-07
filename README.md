@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a software developer with 15+ years of experie
 - 🌱 Continuously leveling up in **.NET** and modern **C#**, with a focus on API design and architecture.
 - 🔭 I’m currently working on expanding my knowledge of **Entity Framework Core** to deepen my understanding of data access strategies.
 - 🤔 I’m looking for help with **code reviews** and having someone go through my code to correct me where I might be wrong or suggest improvements.
-- 💬 Ask me about **C#, .NET, & API design**.
+- 💬 Exploring modern **C#** and **.NET**. Always happy to share what I’ve learned or discuss things I’m still figuring out.
 
 ## ⚙️ Technologies & Tools
 
@@ -230,10 +230,16 @@ These topics emerged while building my demos. They’re either things I’d like
 
 ## 🌐 Connect with Me
 
-- 📫 How to reach me: [![EMail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JitenShahani)
+[![Email](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahani.jiten@gmail.com)  [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JitenShahani)
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe in lifelong learning and enjoy mentoring others in their coding journey.
+- 🌱 I believe in lifelong learning and enjoy mentoring others in their coding journey.
+- ✍️ I also take time to document what I discover, capturing ideas through code, writing, and quiet reflection.
+- 🤝 I welcome thoughtful feedback and conversation. If something I’ve shared resonates with you, feel free to reach out.
+
+> My projects focus on what's essential: clean structure, practical patterns, and thoughtful documentation.
+
+---
 
 ![JitenShahani](JitenShahani.svg)
 
