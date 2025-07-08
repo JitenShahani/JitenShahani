@@ -78,11 +78,11 @@ These are completed demos and experiments that I've already explored locally. Wh
 
 **Planned Repo:** `MinimalApiValidation-DotNet10`
 
-🏷️ Tags: `Validation`, `Minimal API`, `Preview Features`, `.NET 10`.
+🏷️ Tags: `Validation`, `Minimal API`, `Preview Features`, `.NET 10`
 
 Explore new features introduced in .NET 10 Previews:
 
-- Auto-validation for request bodies in Minimal APIs using `AddValidation()` introduced in Preview 3.
+- Auto-validation for request bodies in Minimal APIs using `builder.Services.AddValidation();` introduced in Preview 3.
 - Support for `DataAnnotation` attributes directly on C# `record` types introduced in Preview 4.
 - Includes a comparison of behavior between Minimal APIs and traditional MVC controllers.
 
@@ -131,7 +131,7 @@ Demonstrates background processing patterns using multiple approaches:
 
 - `BackgroundService`: A streamlined base class for long-running tasks with support for scoped services and graceful cancellation.
 - `IHostedService`: Interface-based implementation for startup tasks, timers, and background loops.
-- `IHostedLifetimeService`: Introduced in .NET 8+ for managing full lifecycle hooks (startup, shutdown, failure handling).
+- `IHostedLifetimeService`: Introduced in .NET 8 for managing full lifecycle hooks (startup, shutdown, failure handling).
 
 ---
 
