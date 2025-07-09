@@ -36,6 +36,9 @@ A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. 
 A controller-based Web API built with .NET 9, highlighting advanced features like API versioning, keyed service injection, and dual OpenAPI UIs using Swagger and Scalar. Designed for clarity and fail-fast validation, this project is a hands-on guide to building scalable, versioned APIs.
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ApiVersioningDemo-.NET-9?style=for-the-badge)](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9/commits/master)
+<a href="#" title="This repo is evolving. Some files may be reorganized or git ignored. README refinements and file reorganization in progress...">
+  <img src="https://img.shields.io/badge/Update-Coming-blueviolet?style=for-the-badge&logo=git" alt="Update Coming Badge">
+</a>
 
 🖥️ [Bearer Token Auth Demo](https://github.com/JitenShahani/BearerTokenAuthDemo)
 A minimal API application built with .NET 10, showcasing ASP.NET Core Identity with `AddBearerToken()` introduced in .NET 8. It features secure token-based authentication, role-based authorization, auto-generated endpoints via `MapIdentityApi`, OpenAPI integration, Scalar UI, and developer-friendly documentation.
