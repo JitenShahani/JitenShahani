@@ -48,6 +48,11 @@ A minimal API application built with .NET 10, showcasing ASP.NET Core Identity w
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/BearerTokenAuthDemo?style=for-the-badge)](https://github.com/JitenShahani/BearerTokenAuthDemo/commits/master)
 
+🖥️ [Global Exception Middleware Demo](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo)
+A reference-grade ASP.NET Core demo built with .NET 9, showcasing centralized error handling using `IExceptionHandler`, `ProblemDetailsFactory`, and FluentValidation. Includes structured error responses, visual pipeline flow via Mermaid chart, and production-ready practices for Minimal APIs.
+
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/GlobalExceptionMiddleware-Demo?style=for-the-badge)](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo/commits/main)
+
 ## ✍️ My Dev Articles
 [![My Dev Profile](https://img.shields.io/badge/My%20Profile-Black?style=for-the-badge&logo=dev.to&logoColor=%23fff&logoSize=auto&labelColor=%230A0A0A&color=%23000)](https://dev.to/jitenshahani)
 
@@ -116,6 +121,7 @@ Explore new features introduced in .NET 10 Previews:
 
 ---
 
+<!--
 🖥️ Global Exception Handling
 
 **Planned Repo:** `GlobalExceptionMiddleware-Demo`
@@ -126,6 +132,7 @@ Explore new features introduced in .NET 10 Previews:
 - Captures exceptions and responds with structured error payloads—ideal for consistent API behavior.
 
 ---
+-->
 
 🖥️ Background & Hosted Services
 
