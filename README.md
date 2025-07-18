@@ -121,18 +121,18 @@ Explore new features introduced in .NET 10 Previews:
 
 ---
 
-<!--
-🖥️ Global Exception Handling
+🖥️ ~~Global Exception Handling~~
 
 **Planned Repo:** `GlobalExceptionMiddleware-Demo`
 
 🏷️ Tags: `Error Handling`, `Middleware`, `API`, `Resilience`
 
-- Implements centralized error handling in ASP.NET Core using custom middleware.
+- Implements centralized error handling in ASP.NET Core using custom handlers.
 - Captures exceptions and responds with structured error payloads—ideal for consistent API behavior.
 
+> 🏅 **Promoted to Featured Work**
+
 ---
--->
 
 🖥️ Background & Hosted Services
 
