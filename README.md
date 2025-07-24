@@ -53,6 +53,11 @@ A reference-grade ASP.NET Core demo built with .NET 9, showcasing centralized er
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/GlobalExceptionMiddleware-Demo?style=for-the-badge)](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo/commits/main)
 
+🖥️ [Manual DTO Mapping via Extension Methods](https://github.com/JitenShahani/DtoMappingWithExtensionMethods)
+A reference-grade ASP.NET Core Minimal API demo built with precision and clarity. It features explicit DTO transformations using extension methods, a clean repository pattern backed by EF Core with SQLite, intentional JSON serialization, and a well-structured architecture that prioritizes separation of concerns and audit-safe updates.
+
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/DtoMappingWithExtensionMethods?style=for-the-badge)](https://github.com/JitenShahani/DtoMappingWithExtensionMethods/commits/main)
+
 ## ✍️ My Dev Articles
 [![My Dev Profile](https://img.shields.io/badge/My%20Profile-Black?style=for-the-badge&logo=dev.to&logoColor=%23fff&logoSize=auto&labelColor=%230A0A0A&color=%23000)](https://dev.to/jitenshahani)
 
@@ -99,7 +104,7 @@ Explore new features introduced in .NET 10 Previews:
 
 ---
 
-🖥️ Manual DTO Mapping via Extension Methods
+🖥️ ~~Manual DTO Mapping via Extension Methods~~
 
 **Planned Repo:** `DtoMappingWithExtensionMethods`
 
@@ -107,6 +112,8 @@ Explore new features introduced in .NET 10 Previews:
 
 - Demonstrates clean and controlled DTO ↔ Entity mapping using extension methods.
 - Avoids the overhead of external mappers like AutoMapper and places mapping logic where it's accessible and testable.
+
+> 🏅 **Promoted to Featured Work**
 
 ---
 
