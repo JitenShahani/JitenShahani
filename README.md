@@ -27,10 +27,14 @@ An educational walkthrough of a secure, filter-based ASP.NET Core Web API with f
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/ShirtsApi-ArchitecturalDocs?style=for-the-badge)](https://github.com/JitenShahani/ShirtsApi-ArchitecturalDocs/commits/main)
 
+---
+
 🖥️ [Request Validation In Minimal APIs](https://github.com/JitenShahani/RequestValidationInMinimalAPIs)
 A .NET 9 application that demonstrates the use of minimal APIs in ASP.NET Core. This project includes various features such as global exception handling, CORS, HTTPS redirection, health checks, OpenAPI documentation, and more.
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/RequestValidationInMinimalAPIs?style=for-the-badge)](https://github.com/JitenShahani/RequestValidationInMinimalAPIs/commits/master)
+
+---
 
 🖥️ [API Versioning & Keyed Services in .NET 9](https://github.com/JitenShahani/ApiVersioningDemo-.NET-9)
 A reference-grade ASP.NET Core Web API built with .NET 9, showcasing both controller and minimal endpoint implementations. Highlights include API versioning, keyed service injection, fail-fast DI validation, and dual OpenAPI UIs via Swagger UI and Scalar. Designed as a hands-on guide for building scalable, version-aware APIs with clarity, discoverability, and modern tooling.
@@ -43,19 +47,27 @@ A reference-grade ASP.NET Core Web API built with .NET 9, showcasing both contro
 </a>
 -->
 
+---
+
 🖥️ [Bearer Token Auth Demo](https://github.com/JitenShahani/BearerTokenAuthDemo)
 A minimal API application built with .NET 10, showcasing ASP.NET Core Identity with `AddBearerToken()` introduced in .NET 8. It features secure token-based authentication, role-based authorization, auto-generated endpoints via `MapIdentityApi`, OpenAPI integration, Scalar UI, and developer-friendly documentation.
 
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/BearerTokenAuthDemo?style=for-the-badge)](https://github.com/JitenShahani/BearerTokenAuthDemo/commits/master)
 
+---
+
 🖥️ [Global Exception Middleware Demo](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo)
 A reference-grade ASP.NET Core demo built with .NET 9, showcasing centralized error handling using `IExceptionHandler`, `ProblemDetailsFactory`, and FluentValidation. Includes structured error responses, visual pipeline flow via Mermaid chart, and production-ready practices for Minimal APIs.
 
+![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/GlobalExceptionMiddleware-Demo?style=for-the-badge)](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo/commits/master)
+
+---
 
 🖥️ [Manual DTO Mapping via Extension Methods](https://github.com/JitenShahani/DtoMappingWithExtensionMethods)
 A reference-grade ASP.NET Core Minimal API demo built with precision and clarity. It features explicit DTO transformations using extension methods, a clean repository pattern backed by EF Core with SQLite, intentional JSON serialization, and a well-structured architecture that prioritizes separation of concerns and audit-safe updates.
 
+![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/DtoMappingWithExtensionMethods?style=for-the-badge)](https://github.com/JitenShahani/DtoMappingWithExtensionMethods/commits/master)
 
 ## ✍️ My Dev Articles
