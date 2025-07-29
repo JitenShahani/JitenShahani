@@ -70,6 +70,16 @@ A reference-grade ASP.NET Core Minimal API demo built with precision and clarity
 ![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/DtoMappingWithExtensionMethods?style=for-the-badge)](https://github.com/JitenShahani/DtoMappingWithExtensionMethods/commits/master)
 
+---
+
+🖥️ [Hosted Services in ASP.NET Core](https://github.com/JitenShahani/HostedServicesInAspNetCore)
+An ASP.NET Core project built with .NET 9 that illustrates key hosted service patterns through clear, beginner-friendly examples. Covers timed execution, scoped service activation, and queue-based task processing. Ideal for developers seeking a practical introduction to background tasks in ASP.NET Core.  
+
+![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/HostedServicesInAspNetCore?style=for-the-badge)](https://github.com/JitenShahani/HostedServicesInAspNetCore/commits/master)
+
+---
+
 ## ✍️ My Dev Articles
 [![My Dev Profile](https://img.shields.io/badge/My%20Profile-Black?style=for-the-badge&logo=dev.to&logoColor=%23fff&logoSize=auto&labelColor=%230A0A0A&color=%23000)](https://dev.to/jitenshahani)
 
@@ -153,7 +163,7 @@ Explore new features introduced in .NET 10 Previews:
 
 ---
 
-🖥️ Background & Hosted Services
+🖥️ ~~Background & Hosted Services~~
 
 **Planned Repo:** `HostedServicesInAspNetCore`
 
@@ -164,6 +174,8 @@ Demonstrates background processing patterns using multiple approaches:
 - `BackgroundService`: A streamlined base class for long-running tasks with support for scoped services and graceful cancellation.
 - `IHostedService`: Interface-based implementation for startup tasks, timers, and background loops.
 - `IHostedLifetimeService`: Introduced in .NET 8 for managing full lifecycle hooks (startup, shutdown, failure handling).
+
+> 🏅 **Promoted to Featured Work**
 
 ---
 
