@@ -80,6 +80,14 @@ An ASP.NET Core project built with .NET 9 that illustrates key hosted service pa
 
 ---
 
+🖥️ [C# Enum Mastery: Advanced Patterns, Metadata, and Flag Operations](https://github.com/JitenShahani/AdvancedEnumPatterns)
+A focused .NET repository that demonstrates advanced C# enum usage, including attribute-driven metadata, flagged/composite operations, custom type converters, and idiomatic iteration techniques. With in-depth, example-driven documentation, it’s perfect for developers seeking authoritative patterns for metadata-rich enums covering everything from reflection and extension methods to real-world UI mapping and DTO integration.
+
+![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/AdvancedEnumPatterns?style=for-the-badge)](https://github.com/JitenShahani/AdvancedEnumPatterns/commits/master)
+
+---
+
 ## ✍️ My Dev Articles
 [![My Dev Profile](https://img.shields.io/badge/My%20Profile-Black?style=for-the-badge&logo=dev.to&logoColor=%23fff&logoSize=auto&labelColor=%230A0A0A&color=%23000)](https://dev.to/jitenshahani)
 
@@ -139,7 +147,7 @@ Explore new features introduced in .NET 10 Previews:
 
 ---
 
-🖥️ Enum Showcase & Metadata Exploration
+🖥️ ~~C# Enum Mastery: Advanced Patterns, Metadata, and Flag Operations~~
 
 **Planned Repo:** `AdvancedEnumPatterns`
 
@@ -147,6 +155,8 @@ Explore new features introduced in .NET 10 Previews:
 
 - Progressively explores enum usage from basic iteration to advanced concepts like reading custom attributes, using `TypeConverter` for friendly string output, and bitwise combination with `Flags`.
 - Includes performance optimization via `FastEnums` (source generator library).
+
+> 🏅 **Promoted to Featured Work**
 
 ---
 
