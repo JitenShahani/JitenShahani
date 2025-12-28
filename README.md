@@ -59,7 +59,6 @@ A minimal API application built with .NET 10, showcasing ASP.NET Core Identity w
 🖥️ [Global Exception Middleware Demo](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo)
 A reference-grade ASP.NET Core demo built with .NET 9, showcasing centralized error handling using `IExceptionHandler`, `ProblemDetailsFactory`, and FluentValidation. Includes structured error responses, visual pipeline flow via Mermaid chart, and production-ready practices for Minimal APIs.
 
-![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/GlobalExceptionMiddleware-Demo?style=for-the-badge)](https://github.com/JitenShahani/GlobalExceptionMiddleware-Demo/commits/master)
 
 ---
@@ -67,7 +66,6 @@ A reference-grade ASP.NET Core demo built with .NET 9, showcasing centralized er
 🖥️ [Manual DTO Mapping via Extension Methods](https://github.com/JitenShahani/DtoMappingWithExtensionMethods)
 A reference-grade ASP.NET Core Minimal API demo built with precision and clarity. It features explicit DTO transformations using extension methods, a clean repository pattern backed by EF Core with SQLite, intentional JSON serialization, and a well-structured architecture that prioritizes separation of concerns and audit-safe updates.
 
-![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/DtoMappingWithExtensionMethods?style=for-the-badge)](https://github.com/JitenShahani/DtoMappingWithExtensionMethods/commits/master)
 
 ---
@@ -75,7 +73,6 @@ A reference-grade ASP.NET Core Minimal API demo built with precision and clarity
 🖥️ [Hosted Services in ASP.NET Core](https://github.com/JitenShahani/HostedServicesInAspNetCore)
 An ASP.NET Core project built with .NET 9 that illustrates key hosted service patterns through clear, beginner-friendly examples. Covers timed execution, scoped service activation, and queue-based task processing. Ideal for developers seeking a practical introduction to background tasks in ASP.NET Core.  
 
-![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/HostedServicesInAspNetCore?style=for-the-badge)](https://github.com/JitenShahani/HostedServicesInAspNetCore/commits/master)
 
 ---
@@ -83,8 +80,15 @@ An ASP.NET Core project built with .NET 9 that illustrates key hosted service pa
 🖥️ [C# Enum Mastery: Advanced Patterns, Metadata, and Flag Operations](https://github.com/JitenShahani/AdvancedEnumPatterns)
 A focused .NET repository that demonstrates advanced C# enum usage, including attribute-driven metadata, flagged/composite operations, custom type converters, and idiomatic iteration techniques. With in-depth, example-driven documentation, it’s perfect for developers seeking authoritative patterns for metadata-rich enums covering everything from reflection and extension methods to real-world UI mapping and DTO integration.
 
-![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 [![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/AdvancedEnumPatterns?style=for-the-badge)](https://github.com/JitenShahani/AdvancedEnumPatterns/commits/master)
+
+---
+
+🖥️ [LearnBlazor](https://github.com/JitenShahani/LearnBlazor)
+A personal Blazor exploration log capturing the components, configurations, and experiments from my ongoing Blazor journey. Originally created to demonstrate `PersistentComponentState` in community discussions, this repository now serves as a record of what I’ve learned and a reference point for future exploration.  
+
+![Fresh Release](https://img.shields.io/badge/STATUS-🔥%20Fresh%20Release-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
+[![Last Commit](https://img.shields.io/github/last-commit/JitenShahani/LearnBlazor?style=for-the-badge)](https://github.com/JitenShahani/LearnBlazor/commits/master)
 
 ---
 
